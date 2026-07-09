@@ -1,4 +1,4 @@
-# Harness engineering kata
+# Harness engineering kata - based on https://github.com/martinsson/harness-engineering-kata
 
 Experiment with tweaking and tooling the harness of agents so they produce the result you want.
 
